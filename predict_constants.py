@@ -1,7 +1,7 @@
 """
 produce an answers file using only samples per device information
-AUC 0.80343
 usage: predict_constants.py questions.csv samples_per_device.csv answers.csv
+AUC 0.80343
 """
 
 print __doc__
